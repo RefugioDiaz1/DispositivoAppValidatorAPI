@@ -1,0 +1,6 @@
+@DispositivoValidatorAPI_HostAddress = http://localhost:5037
+
+GET {{DispositivoValidatorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
